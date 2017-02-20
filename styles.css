@@ -1,0 +1,41 @@
+header{ 
+color:white; 
+width: 100%;
+height: 150px;
+font-family: 'Orbitron', sans-serif;
+background: black;
+padding: 25px;
+
+}
+header:after{
+	border: 1px solid red;
+}
+.myHeader{
+	height: 100px;
+	width: auto;
+}
+
+img {
+	height: 100px;
+	width: auto;	
+}
+
+
+
+body{
+	background: black;
+	background-image: url("http://i.imgur.com/uPfY2fa.jpg");
+}
+
+p, .outputmessage {
+	color: red;
+	font-size: 40px;
+	font-family: 'Orbitron', sans-serif;
+	padding: 40px;
+	background: rgba(0, 0, 0, 0.75);
+	height: 70px;
+	width: 100%;
+	
+
+}
+
